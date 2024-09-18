@@ -1,2 +1,2 @@
-  let nomeusuario= 'yasmin chevonica';
+  let nomeUsuario = 'yasmin chevonica';
   alert (nomeUsuario);
