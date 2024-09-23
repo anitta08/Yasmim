@@ -15,14 +15,6 @@ let areaTriangulo=function(base,altura){
 }
 console.log(areaTriangulo(10,20))
 
-let
-document.write(nome);
-letrMedia1=parseInt=prompt('nota primeiro trimestre'));
-
-
-let MedirMedia2= parseInt(prompt('nota segundo trimestre'));
-
-
 let mediaAritmetica1=parseInt(prompt('numero 1'));
 let mediaAritmetica2=parseInt(prompt('numero 2'));
 let mediaAritmetica3=parseInt(prompt('numero 3'));
