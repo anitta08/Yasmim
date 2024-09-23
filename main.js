@@ -1,9 +1,9 @@
   // let nomeUsuario = 'yasmin chevonica';
   // alert (nomeUsuario);
-function soma(A,B){
-  return A+B;
+function soma(num1,num2){
+  return num1+num2;
 }
-console.log(soma(A+B));
+console.log(soma(4+2));
 
 
 
