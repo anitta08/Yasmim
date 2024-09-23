@@ -7,7 +7,7 @@ console.log(soma (1,2));
 function areaQuadrado(lado){
     return lado**2
 }
-console.log(areaQuadrado(6)
+console.log(areaQuadrado(6))
 
 
 
