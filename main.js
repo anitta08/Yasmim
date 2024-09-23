@@ -14,3 +14,8 @@ let areaTriangulo=function(base,altura){
  return (base*altura/2)
 }
 console.log(areaTriangulo(13,19))
+
+let nome=prompt('?');
+document.write(nome);
+
+parseInt(prompt('?'))
