@@ -33,6 +33,6 @@ console.log(estados[i]);
 
   
 for (let i = 0; index < estados.length; i++) {
-  const element = array[index];
+  console.log(estados[i]);
   
 }
