@@ -29,4 +29,4 @@ while(i<estados.length){
 console.log(i);
 i++;
 console.log(estados[i]);
-i=i+1;}
+}
