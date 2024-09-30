@@ -33,6 +33,5 @@ console.log(estados[i]);
 
   
 for (let i = 0; index < estados.length; i++) {
-  console.log(estados[i]);
+  console.log(estados[i]);}
   
-}
