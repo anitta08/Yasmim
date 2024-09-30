@@ -34,3 +34,10 @@ let estados = ['Parana', 'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Cear
   
 for (let i = 0; i < estados.length; i++) {
   console.log(estados[i]);}
+ let idade= 16 
+ if(idade>10){ 
+  console.log('já pode trabalhar');
+ }
+ else{
+  console.log('não pode trabalhar');
+ }
