@@ -24,14 +24,13 @@
 // document.write(media(mediaAritmetica1,mediaAritmetica2,mediaAritmetica3));
 
 let estados = ['Parana', 'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará', 'Espírito Santo', 'Goiás', 'Maranhão', 'Mato Grosso', 'Mato Grosso do Sul', 'Minas Gerais', 'Pará', 'Paraíba', 'Pernambuco', 'Piauí', 'Rio de Janeiro', 'Rio Grande do Norte', 'Rio Grande do Sul', 'Rondônia', 'Roraima', 'Santa Catarina', 'São Paulo', 'Sergipe', 'Tocantins', 'Distrito Federal'];
-let i = 0;
-while(i<estados.length){
-console.log(i);
-i++;
-console.log(estados[i]);
-}
+// let i = 0;
+// while(i<estados.length){
+// console.log(i);
+// i++;
+// console.log(estados[i]);
+// }
 
   
 for (let i = 0; index < estados.length; i++) {
   console.log(estados[i]);}
-  
