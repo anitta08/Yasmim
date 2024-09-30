@@ -32,5 +32,5 @@ let estados = ['Parana', 'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Cear
 // }
 
   
-for (let i = 0; index < estados.length; i++) {
+for (let i = 0; i < estados.length; i++) {
   console.log(estados[i]);}
