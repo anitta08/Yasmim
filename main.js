@@ -35,7 +35,7 @@ let estados = ['Parana', 'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Cear
 for (let i = 0; i < estados.length; i++) {
   console.log(estados[i]);}
  let idade= parseInt(prompt('suaidade'))
- if(idade>16){ 
+ if(idade>11){ 
   console.log('já pode trabalhar');
  }
  else{
